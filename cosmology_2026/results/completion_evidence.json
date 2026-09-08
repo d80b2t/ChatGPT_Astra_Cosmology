@@ -1,0 +1,144 @@
+{
+  "checked_at_utc": "2026-09-07T22:00:56.443408+00:00",
+  "numerical_completion_gates_passed": true,
+  "independent_scientific_review": "not performed",
+  "sensitivity_qualification": "No-supernova wCDM and CPL constraints are excluded because importance ESS fails the reporting threshold. No alternative CMB or lensing refits were performed.",
+  "models": {
+    "lcdm": {
+      "direct_draws": 800,
+      "direct_draws_per_chain": [
+        200,
+        200,
+        200,
+        200
+      ],
+      "production_draws": 120000,
+      "max_rhat": 1.001374,
+      "min_bulk_ess": 3924.821291,
+      "min_tail_ess": 7140.346751,
+      "variants": {
+        "baseline": {
+          "weight_ess": 798.8216105188575,
+          "pareto_k": -0.006848223360155097,
+          "parameter_constraints_reportable": true,
+          "max_mcse_over_posterior_sd": 0.0417684440436235
+        },
+        "bao_only": {
+          "weight_ess": 720.566562475654,
+          "pareto_k": 0.13892211838781476,
+          "parameter_constraints_reportable": true,
+          "max_mcse_over_posterior_sd": 0.04692931718006465
+        },
+        "pantheon": {
+          "weight_ess": 784.7076785264592,
+          "pareto_k": 0.011817645897080889,
+          "parameter_constraints_reportable": true,
+          "max_mcse_over_posterior_sd": 0.04333127178066688
+        },
+        "no_sn": {
+          "weight_ess": 604.3497404162689,
+          "pareto_k": 0.23365961878652847,
+          "parameter_constraints_reportable": true,
+          "max_mcse_over_posterior_sd": 0.05268162418263855
+        }
+      }
+    },
+    "wcdm": {
+      "direct_draws": 800,
+      "direct_draws_per_chain": [
+        200,
+        200,
+        200,
+        200
+      ],
+      "production_draws": 120000,
+      "max_rhat": 1.002991,
+      "min_bulk_ess": 3636.245506,
+      "min_tail_ess": 6227.642275,
+      "variants": {
+        "baseline": {
+          "weight_ess": 796.5241894277028,
+          "pareto_k": 0.00316774560931349,
+          "parameter_constraints_reportable": true,
+          "max_mcse_over_posterior_sd": 0.04345952781364141
+        },
+        "bao_only": {
+          "weight_ess": 740.0973037451422,
+          "pareto_k": 0.12079040122408054,
+          "parameter_constraints_reportable": true,
+          "max_mcse_over_posterior_sd": 0.04487130812418279
+        },
+        "pantheon": {
+          "weight_ess": 730.6932572037415,
+          "pareto_k": 0.17085358683910676,
+          "parameter_constraints_reportable": true,
+          "max_mcse_over_posterior_sd": 0.051591476729872375
+        },
+        "no_sn": {
+          "weight_ess": 34.872560336389625,
+          "pareto_k": 0.9221842914149176,
+          "parameter_constraints_reportable": false,
+          "max_mcse_over_posterior_sd": 0.23988516889091221
+        }
+      }
+    },
+    "cpl": {
+      "direct_draws": 800,
+      "direct_draws_per_chain": [
+        200,
+        200,
+        200,
+        200
+      ],
+      "production_draws": 120000,
+      "max_rhat": 1.001624,
+      "min_bulk_ess": 3070.53463,
+      "min_tail_ess": 4949.787827,
+      "variants": {
+        "baseline": {
+          "weight_ess": 789.2680433577592,
+          "pareto_k": 0.4745877417630737,
+          "parameter_constraints_reportable": true,
+          "max_mcse_over_posterior_sd": 0.045310170509208866
+        },
+        "bao_only": {
+          "weight_ess": 573.5253821868461,
+          "pareto_k": 0.1287696688704703,
+          "parameter_constraints_reportable": true,
+          "max_mcse_over_posterior_sd": 0.045114365593558615
+        },
+        "pantheon": {
+          "weight_ess": 518.7199045688338,
+          "pareto_k": 0.3410457434797571,
+          "parameter_constraints_reportable": true,
+          "max_mcse_over_posterior_sd": 0.0580495802343099
+        },
+        "no_sn": {
+          "weight_ess": 129.22311428102785,
+          "pareto_k": 0.606145147482393,
+          "parameter_constraints_reportable": false,
+          "max_mcse_over_posterior_sd": 0.13072416564767467
+        }
+      }
+    }
+  },
+  "python": "3.12.13",
+  "packages": {
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.8",
+    "camb": "2.0.4",
+    "cobaya": "3.6.2",
+    "sacc": "2.4",
+    "astropy": "8.0.1",
+    "arviz": "0.23.4"
+  },
+  "manuscript": {
+    "file": "paper/cosmology_mnras_paper.pdf",
+    "pages": 7,
+    "sha256": "ef8d1386cab7d8fe300d85f63766c6cfccd6b0ad6a0aafd4b06f1b20bdf23d3d",
+    "visual_review": "All pages inspected; final plot-label and appendix layout corrections verified.",
+    "status": "Completed computational research draft; independent scientific review pending"
+  }
+}

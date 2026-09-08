@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# LaTeX temporary files
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.blg
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.pyc

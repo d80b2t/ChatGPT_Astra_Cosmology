@@ -1,0 +1,30 @@
+[
+  {
+    "file": "data/pantheon_plus.dat",
+    "url": "https://raw.githubusercontent.com/PantheonPlusSH0ES/DataRelease/c447f0fea703fcd0fff57de5000947b5ca81286b/Pantheon+_Data/4_DISTANCES_AND_COVAR/Pantheon+SH0ES.dat",
+    "bytes": 579283,
+    "sha256": "1cb0fc379ef066afdc2ffd1857681cc478024570d8a3eba284fb645775198cf8",
+    "retrieved": "2026-09-04"
+  },
+  {
+    "file": "data/pantheon_plus.cov",
+    "url": "https://raw.githubusercontent.com/PantheonPlusSH0ES/DataRelease/c447f0fea703fcd0fff57de5000947b5ca81286b/Pantheon+_Data/4_DISTANCES_AND_COVAR/Pantheon+SH0ES_STAT+SYS.cov",
+    "bytes": 33284960,
+    "sha256": "abf806d966485e64afdb359c87bffc0ecc00d05eff0a31ced66f247385df0fdc",
+    "retrieved": "2026-09-04"
+  },
+  {
+    "file": "references/desi_ap.html",
+    "url": "https://arxiv.org/html/2607.27410v3",
+    "bytes": 1056373,
+    "sha256": "af57e0e0ce6d55161549ba32b98b332d1a7acceb9a3ba8f9811a28efd6d2f847",
+    "retrieved": "2026-09-04"
+  },
+  {
+    "file": "references/dovekie.html",
+    "url": "https://arxiv.org/html/2511.07517v3",
+    "bytes": 921123,
+    "sha256": "65c7b67c2f827cb5efddb8d457bc63aa29c2066149f2d05335674cdd5df87894",
+    "retrieved": "2026-09-04"
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "original_archive_record": {
+    "file": "data/planck_lowT.zip",
+    "url": "https://github.com/CobayaSampler/planck_native_data/releases/download/v1/planck_2018_lowT.zip",
+    "bytes": 4013568,
+    "sha256": "d986365242c5ecb331eb8199bddb2eeca87ffd27428b9f5763679948d1229e35",
+    "retrieved": "2026-09-04"
+  },
+  "complete_archive_bytes": 5523441,
+  "complete_archive_sha256": "ca6310b737c314131e45144be85cfa0e526401e6f49592c79fcc799a43659e6d",
+  "unpacked_checks": [
+    {
+      "file": "data/cmb/cl2x_1.txt",
+      "matches_release": true
+    },
+    {
+      "file": "data/cmb/cl2x_2.txt",
+      "matches_release": true
+    },
+    {
+      "file": "data/cmb/cov.txt",
+      "matches_release": true
+    },
+    {
+      "file": "data/cmb/mu.txt",
+      "matches_release": true
+    },
+    {
+      "file": "data/cmb/mu_sigma.txt",
+      "matches_release": true
+    }
+  ]
+}

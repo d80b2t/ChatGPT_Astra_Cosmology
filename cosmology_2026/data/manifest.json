@@ -1,0 +1,122 @@
+[
+  {
+    "file": "data/desi_dr2_mean.txt",
+    "url": "https://raw.githubusercontent.com/CobayaSampler/bao_data/bb0c1c9009dc76d1391300e169e8df38fd1096db/desi_bao_dr2/desi_gaussian_bao_ALL_GCcomb_mean.txt",
+    "bytes": 472,
+    "sha256": "9ac154ab583ce759c0f7eef3c978c7c70a6ead2d18774caceadf1a350a640585",
+    "retrieved": "2026-09-04"
+  },
+  {
+    "file": "data/desi_dr2_cov.txt",
+    "url": "https://raw.githubusercontent.com/CobayaSampler/bao_data/bb0c1c9009dc76d1391300e169e8df38fd1096db/desi_bao_dr2/desi_gaussian_bao_ALL_GCcomb_cov.txt",
+    "bytes": 2547,
+    "sha256": "252a143274c8a07c78694c119617d36594f6d7965d00319ca611c6ffb886e509",
+    "retrieved": "2026-09-04"
+  },
+  {
+    "file": "data/dovekie.csv",
+    "url": "https://raw.githubusercontent.com/des-science/DES-SN5YR/c9a4fcafc4cbd19bd750dee47fc76194a45c181f/4_DISTANCES_COVMAT/DES-Dovekie_HD.csv",
+    "bytes": 148002,
+    "sha256": "2f57019d783eaa976df80a41b0054171a2d994ee9808d715ce850c2df5720aaf",
+    "retrieved": "2026-09-04"
+  },
+  {
+    "file": "data/dovekie_precision.npz",
+    "url": "https://raw.githubusercontent.com/des-science/DES-SN5YR/c9a4fcafc4cbd19bd750dee47fc76194a45c181f/4_DISTANCES_COVMAT/STAT+SYS.npz",
+    "bytes": 6244951,
+    "sha256": "ffd3124b32148b1372bd95fda9299269f0352a9f8eee02d416c610e38495463b",
+    "retrieved": "2026-09-04"
+  },
+  {
+    "file": "data/dovekie_readme.md",
+    "url": "https://raw.githubusercontent.com/des-science/DES-SN5YR/c9a4fcafc4cbd19bd750dee47fc76194a45c181f/4_DISTANCES_COVMAT/README.md",
+    "bytes": 1680,
+    "sha256": "7afa1b4c11f465d90eeb0352eb4ca0721f2baa856f545e16ac24af9aa067cf7e",
+    "retrieved": "2026-09-04"
+  },
+  {
+    "file": "data/pantheon_plus.dat",
+    "url": "https://raw.githubusercontent.com/PantheonPlusSH0ES/DataRelease/c447f0fea703fcd0fff57de5000947b5ca81286b/Pantheon+_Data/4_DISTANCES_AND_COVAR/Pantheon+SH0ES.dat",
+    "bytes": 579283,
+    "sha256": "1cb0fc379ef066afdc2ffd1857681cc478024570d8a3eba284fb645775198cf8",
+    "retrieved": "2026-09-04"
+  },
+  {
+    "file": "data/pantheon_plus.cov",
+    "url": "https://raw.githubusercontent.com/PantheonPlusSH0ES/DataRelease/c447f0fea703fcd0fff57de5000947b5ca81286b/Pantheon+_Data/4_DISTANCES_AND_COVAR/Pantheon+SH0ES_STAT+SYS.cov",
+    "bytes": 33284960,
+    "sha256": "abf806d966485e64afdb359c87bffc0ecc00d05eff0a31ced66f247385df0fdc",
+    "retrieved": "2026-09-04"
+  },
+  {
+    "file": "vendor/dovekie_likelihood.py",
+    "url": "https://raw.githubusercontent.com/des-science/DES-SN5YR/c9a4fcafc4cbd19bd750dee47fc76194a45c181f/4_DISTANCES_COVMAT/DES-Dovekie-SN_Likelihood.py",
+    "bytes": 7674,
+    "sha256": "78526c0e6013619e3586a5509be504f0bc5f0461d1e55a3d5bec0154353645ff",
+    "retrieved": "2026-09-04"
+  },
+  {
+    "file": "vendor/act_dr6_cmbonly.py",
+    "url": "https://raw.githubusercontent.com/ACTCollaboration/DR6-ACT-lite/627aeafb88ae5ad1aa66b406bea2d65cfa66a27d/act_dr6_cmbonly/act_dr6_cmbonly.py",
+    "bytes": 5043,
+    "sha256": "b1614ff2f69697376212eec857bcde7a94a91d18bd8ab476d118c66fa6d6c964",
+    "retrieved": "2026-09-04"
+  },
+  {
+    "file": "vendor/PlanckActCut.py",
+    "url": "https://raw.githubusercontent.com/ACTCollaboration/DR6-ACT-lite/627aeafb88ae5ad1aa66b406bea2d65cfa66a27d/act_dr6_cmbonly/PlanckActCut.py",
+    "bytes": 1439,
+    "sha256": "03e0f830fc6c2a2197bdca5caabdf4e84eff5623c4378e9d66c01b15851b4ae8",
+    "retrieved": "2026-09-04"
+  },
+  {
+    "file": "vendor/PlanckActCut.yaml",
+    "url": "https://raw.githubusercontent.com/ACTCollaboration/DR6-ACT-lite/627aeafb88ae5ad1aa66b406bea2d65cfa66a27d/act_dr6_cmbonly/PlanckActCut.yaml",
+    "bytes": 836,
+    "sha256": "c4285530e30e413345b8abd70e5b25be4fac23fbaeea60f3a4b7fca365e45d59",
+    "retrieved": "2026-09-04"
+  },
+  {
+    "file": "data/dr6_data_cmbonly.tar.gz",
+    "url": "https://lambda.gsfc.nasa.gov/data/act/pspipe/sacc_files/dr6_data_cmbonly.tar.gz",
+    "bytes": 286990,
+    "sha256": "3f057c2569211ada03759530b74848b322edc3d68d66b6b8c2db0679547dbbd8",
+    "retrieved": "2026-09-04"
+  },
+  {
+    "file": "data/plik_lite_2018.zip",
+    "url": "https://github.com/CobayaSampler/planck_native_data/releases/download/v1/plik_lite_2018_AL.zip",
+    "bytes": 1546224,
+    "sha256": "06304103221bc692e280fb4ac92b9834fd3f6e2e27a7926fed71aadfabc08fe7",
+    "retrieved": "2026-09-04"
+  },
+  {
+    "file": "data/planck_lowT.zip",
+    "url": "https://github.com/CobayaSampler/planck_native_data/releases/download/v1/planck_2018_lowT.zip",
+    "bytes": 5523441,
+    "sha256": "ca6310b737c314131e45144be85cfa0e526401e6f49592c79fcc799a43659e6d",
+    "retrieved": "2026-09-07",
+    "note": "Restored complete release archive; previous archive was truncated. See restart_lowT_integrity.json for extracted-file verification."
+  },
+  {
+    "file": "data/planck_lowE.zip",
+    "url": "https://github.com/CobayaSampler/planck_native_data/releases/download/v1/planck_2018_lowE.zip",
+    "bytes": 841455,
+    "sha256": "7537a97805952b862198b4319bf2dbc286200b945631f96583f254fd42a4183c",
+    "retrieved": "2026-09-04"
+  },
+  {
+    "file": "paper/mnras.cls",
+    "url": "https://mirrors.ctan.org/macros/latex/contrib/mnras/mnras.cls",
+    "bytes": 62657,
+    "sha256": "43403d42440caa704a0b6631acd5ae01524869e124450a0449646fc07f4c1152",
+    "retrieved": "2026-09-04"
+  },
+  {
+    "file": "paper/mnras.bst",
+    "url": "https://mirrors.ctan.org/macros/latex/contrib/mnras/mnras.bst",
+    "bytes": 43376,
+    "sha256": "8dd7405398edf44e97c055b1e5b9b5ba1420102f1315dbf22d23c06f0d56f314",
+    "retrieved": "2026-09-04"
+  }
+]

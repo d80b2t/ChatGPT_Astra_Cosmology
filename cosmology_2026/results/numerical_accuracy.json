@@ -1,0 +1,68 @@
+{
+  "lcdm": {
+    "data_space_squared_difference": 0.02801988181958733,
+    "data_space_norm": 0.16739140306356037,
+    "delta_deviance": 0.9428600964022813,
+    "delta_components": {
+      "planck_high": 0.3190210825066515,
+      "act": 0.6213757776906448,
+      "planck_lowT": 0.0025333529517865827,
+      "planck_lowE": 0.0,
+      "bao": -7.011674680157398e-05,
+      "sn": 0.0,
+      "calibration_prior": 0.0
+    },
+    "derived_change": [
+      0.0,
+      0.0,
+      9.150181369932398e-06,
+      0.00021073703243956743,
+      -1.0722600211621192e-05
+    ],
+    "change_in_model_deviance_difference": 0.0
+  },
+  "wcdm": {
+    "data_space_squared_difference": 0.027570399840171508,
+    "data_space_norm": 0.16604336734772487,
+    "delta_deviance": 0.940594480896257,
+    "delta_components": {
+      "planck_high": 0.3222130246296615,
+      "act": 0.6057759490872172,
+      "planck_lowT": 0.002658162756517868,
+      "planck_lowE": 0.009983864163132239,
+      "bao": -3.651974027185645e-05,
+      "sn": 0.0,
+      "calibration_prior": 0.0
+    },
+    "derived_change": [
+      0.0,
+      0.0,
+      5.105488327217245e-06,
+      0.00021088445328132366,
+      -1.1710677315757145e-05
+    ],
+    "change_in_model_deviance_difference": -0.002265615506024332
+  },
+  "cpl": {
+    "data_space_squared_difference": 0.02962059353772981,
+    "data_space_norm": 0.1721063436882261,
+    "delta_deviance": 1.0210650075069339,
+    "delta_components": {
+      "planck_high": 0.32615160503183915,
+      "act": 0.6911540137997463,
+      "planck_lowT": 0.0037593886753484185,
+      "planck_lowE": 0.0,
+      "bao": 0.0,
+      "sn": 0.0,
+      "calibration_prior": 0.0
+    },
+    "derived_change": [
+      0.0,
+      0.0,
+      0.0,
+      0.00021039555688950884,
+      -1.4290099047076232e-05
+    ],
+    "change_in_model_deviance_difference": 0.07820491110465255
+  }
+}

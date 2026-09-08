@@ -1,0 +1,59 @@
+{
+  "lcdm": {
+    "deviance": 2448.850459132574,
+    "start_deviance": 2448.850463401396,
+    "refined_deviance": 2448.850459132574,
+    "refinement_step_posterior_sigma": 0.0006559082083633706,
+    "optimizer_success": true,
+    "components": {
+      "planck_high": 220.97630666977324,
+      "act": 160.16982592753453,
+      "planck_lowT": 21.75646454441261,
+      "planck_lowE": 396.0548818596093,
+      "bao": 15.089022517439927,
+      "sn": 1634.766669226796,
+      "calibration_prior": 0.0372883870087005
+    },
+    "method": "Best evaluated direct-CAMB deviance after one local surrogate-preconditioned gradient refinement; approximate local profile",
+    "delta_deviance": 0.0,
+    "delta_penalized_deviance": 0.0
+  },
+  "wcdm": {
+    "deviance": 2447.7893000431864,
+    "start_deviance": 2447.7997803209314,
+    "refined_deviance": 2447.7893000431864,
+    "refinement_step_posterior_sigma": 0.028411691305180356,
+    "optimizer_success": true,
+    "components": {
+      "planck_high": 221.1584515562264,
+      "act": 161.6290289380996,
+      "planck_lowT": 21.64324093766703,
+      "planck_lowE": 396.0688423307953,
+      "bao": 14.810663032357034,
+      "sn": 1632.3306196693545,
+      "calibration_prior": 0.14845357868622613
+    },
+    "method": "Best evaluated direct-CAMB deviance after one local surrogate-preconditioned gradient refinement; approximate local profile",
+    "delta_deviance": -1.0611590893877292,
+    "delta_penalized_deviance": 0.9388409106122708
+  },
+  "cpl": {
+    "deviance": 2438.4143129093254,
+    "start_deviance": 2438.440788571727,
+    "refined_deviance": 2438.4143129093254,
+    "refinement_step_posterior_sigma": 0.1549506593043936,
+    "optimizer_success": true,
+    "components": {
+      "planck_high": 220.78685405965064,
+      "act": 157.00698137899886,
+      "planck_lowT": 22.093988453828615,
+      "planck_lowE": 396.02147926256885,
+      "bao": 13.017596327085798,
+      "sn": 1629.4629976475853,
+      "calibration_prior": 0.024415779607543677
+    },
+    "method": "Best evaluated direct-CAMB deviance after one local surrogate-preconditioned gradient refinement; approximate local profile",
+    "delta_deviance": -10.43614622324867,
+    "delta_penalized_deviance": -6.43614622324867
+  }
+}

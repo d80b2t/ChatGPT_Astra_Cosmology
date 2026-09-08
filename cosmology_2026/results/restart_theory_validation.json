@@ -1,0 +1,14 @@
+{
+  "lcdm": {
+    "delta_logtarget": 0.0,
+    "max_abs_theory_difference": 0.0
+  },
+  "wcdm": {
+    "delta_logtarget": 0.0,
+    "max_abs_theory_difference": 0.0
+  },
+  "cpl": {
+    "delta_logtarget": 0.0,
+    "max_abs_theory_difference": 0.0
+  }
+}

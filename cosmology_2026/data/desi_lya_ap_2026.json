@@ -1,0 +1,13 @@
+{
+  "source": "DESI DR2 Results IV, arXiv:2607.27410v3, equation 26",
+  "url": "https://arxiv.org/html/2607.27410v3",
+  "release_date": "2026-07-30",
+  "retrieved": "2026-09-04",
+  "effective_redshift": 2.33,
+  "observables": ["DM_over_rd", "DH_over_rd"],
+  "means": [39.32, 8.600],
+  "standard_deviations": [0.33, 0.066],
+  "correlation": 0.225,
+  "use": "Replace, do not append to, DESI DR2 Ly-alpha BAO-only pair",
+  "precision": "Rounded published Gaussian summary; original correlation-function likelihood not refitted"
+}

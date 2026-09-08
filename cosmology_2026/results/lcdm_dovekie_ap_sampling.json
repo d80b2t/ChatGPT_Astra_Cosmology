@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "message": "Optimization terminated successfully.",
+  "chi2": 2448.796308591765,
+  "hessian_eigenvalues": [
+    1.645359755514956,
+    2.9715249095238727,
+    4.764690929798401,
+    5.344943081698327,
+    6.797738394951522,
+    18.65247209735544,
+    66.36421562118795,
+    741.1324393924106
+  ],
+  "acceptance": [
+    0.25156666666666666,
+    0.23613333333333333,
+    0.22603333333333334,
+    0.2595
+  ],
+  "seconds": 43.34061908721924,
+  "draws_per_chain": 30000,
+  "warmup_per_chain": 5000,
+  "max_rhat": 1.001374,
+  "min_ess_bulk": 3924.821291,
+  "min_ess_tail": 7140.346751,
+  "diagnostic_coordinates": "physical; derived coordinates use the surrogate; all production draws"
+}

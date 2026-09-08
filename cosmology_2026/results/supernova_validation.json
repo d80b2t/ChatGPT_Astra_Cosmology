@@ -1,0 +1,20 @@
+{
+  "dovekie": {
+    "Omega_m_mean": 0.33084513399260373,
+    "Omega_m_sd": 0.015275815018770919,
+    "Omega_m_mode": 0.3304,
+    "chi2_mode": 1631.4205652817589,
+    "interpolation_chi2_error": 9.531504474580288e-09,
+    "n": 1820,
+    "method": "96-node Gauss-Legendre distances; flat LCDM without radiation; uncalibrated SN only"
+  },
+  "pantheon": {
+    "Omega_m_mean": 0.33225848188985196,
+    "Omega_m_sd": 0.018210061301216326,
+    "Omega_m_mode": 0.3316,
+    "chi2_mode": 1402.9191300343925,
+    "interpolation_chi2_error": -1.475082171964459e-07,
+    "n": 1590,
+    "method": "96-node Gauss-Legendre distances; flat LCDM without radiation; uncalibrated SN only"
+  }
+}

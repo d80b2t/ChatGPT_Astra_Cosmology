@@ -1,0 +1,35 @@
+{
+  "checks": [
+    {
+      "A": 1.0,
+      "P": 1.0,
+      "manual_act": 160.3115221071451,
+      "upstream_act": 160.31152210714478,
+      "act_difference": -3.126388037344441e-13,
+      "manual_planck": 223.27117093807087,
+      "upstream_planck": 223.27117093807092,
+      "planck_difference": 5.684341886080802e-14
+    },
+    {
+      "A": 1.002,
+      "P": 0.995,
+      "manual_act": 165.6553946786236,
+      "upstream_act": 165.65539467862345,
+      "act_difference": -1.4210854715202004e-13,
+      "manual_planck": 223.1244091121156,
+      "upstream_planck": 223.1244091121156,
+      "planck_difference": 0.0
+    },
+    {
+      "A": 0.997,
+      "P": 1.007,
+      "manual_act": 168.87443268613023,
+      "upstream_act": 168.87443268612978,
+      "act_difference": -4.547473508864641e-13,
+      "manual_planck": 239.83622622544775,
+      "upstream_planck": 239.83622622544786,
+      "planck_difference": 1.1368683772161603e-13
+    }
+  ],
+  "interpretation": "ACT matches directly. Any tiny positive Planck difference comes from the upstream variance-1e10 treatment of excluded bins, which our likelihood removes."
+}

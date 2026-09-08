@@ -1,0 +1,83 @@
+{
+  "lcdm": {
+    "max_abs_standardized_coordinate": {
+      "ombh2": 1.9662073191994138,
+      "omch2": 1.65327467409749,
+      "theta100": 1.9991039935542965,
+      "logA": 2.177317584097795,
+      "ns": 1.8966984997724121,
+      "tau": 2.9561179309196057,
+      "wp": 0.4166666666666671,
+      "wa": 0.7692307692307692
+    },
+    "w0_range": [
+      -1.0,
+      -1.0
+    ],
+    "wa_range": [
+      0.0,
+      0.0
+    ],
+    "early_w_range": [
+      -1.0,
+      -1.0
+    ],
+    "fraction_w0_near_prior_boundary": 0.0,
+    "fraction_wa_near_prior_boundary": 0.0,
+    "fraction_tau_near_prior_boundary": 0.0
+  },
+  "wcdm": {
+    "max_abs_standardized_coordinate": {
+      "ombh2": 1.9693765679485986,
+      "omch2": 2.234352985962655,
+      "theta100": 2.223269844055409,
+      "logA": 2.183287392953311,
+      "ns": 2.221729844793471,
+      "tau": 3.2695731001017885,
+      "wp": 1.5546932770810595,
+      "wa": 0.7692307692307692
+    },
+    "w0_range": [
+      -1.0682815966248635,
+      -0.8956095327665616
+    ],
+    "wa_range": [
+      0.0,
+      0.0
+    ],
+    "early_w_range": [
+      -1.0682815966248635,
+      -0.8956095327665616
+    ],
+    "fraction_w0_near_prior_boundary": 0.0,
+    "fraction_wa_near_prior_boundary": 0.0,
+    "fraction_tau_near_prior_boundary": 0.0
+  },
+  "cpl": {
+    "max_abs_standardized_coordinate": {
+      "ombh2": 1.9280097381312207,
+      "omch2": 1.819389788880907,
+      "theta100": 2.3320359843723715,
+      "logA": 1.9013942996270492,
+      "ns": 1.9461712148955819,
+      "tau": 2.721989214283969,
+      "wp": 1.7515752151001893,
+      "wa": 1.6545218763357163
+    },
+    "w0_range": [
+      -1.0149233805964082,
+      -0.5822395965482621
+    ],
+    "wa_range": [
+      -1.5754392196182156,
+      0.11213304674232283
+    ],
+    "early_w_range": [
+      -2.199737868875521,
+      -0.88161300340388
+    ],
+    "fraction_w0_near_prior_boundary": 0.0,
+    "fraction_wa_near_prior_boundary": 0.0,
+    "fraction_tau_near_prior_boundary": 0.0
+  }
+}

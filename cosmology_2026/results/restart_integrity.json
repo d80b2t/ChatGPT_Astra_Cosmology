@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-07",
+  "pantheon_covariance_restored_to_original_hash": true,
+  "unpacked_cmb_files_except_lowT": [
+    {
+      "file": "data/cmb/blmax.dat",
+      "matches_release": true
+    },
+    {
+      "file": "data/cmb/blmin.dat",
+      "matches_release": true
+    },
+    {
+      "file": "data/cmb/bweight.dat",
+      "matches_release": true
+    },
+    {
+      "file": "data/cmb/cl_cmb_plik_v22.dat",
+      "matches_release": true
+    },
+    {
+      "file": "data/cmb/c_matrix_plik_v22.dat",
+      "matches_release": true
+    },
+    {
+      "file": "data/cmb/plik_lite_v22.dataset",
+      "matches_release": true
+    },
+    {
+      "file": "data/cmb/prob_table.txt",
+      "matches_release": true
+    },
+    {
+      "file": "data/cmb/ACTDR6CMBonly/v1.0/dr6_data_cmbonly.fits",
+      "matches_release": true
+    }
+  ]
+}
